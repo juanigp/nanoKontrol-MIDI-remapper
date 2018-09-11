@@ -1,0 +1,95 @@
+channel 1
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 2
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 3
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 4
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 5
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 6
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 7
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 8
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 9
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 10
+
+t,t,t,t,t,t,t,t
+m,m,m,m,m,m,m,m
+t,t,t,t,t,t,t,t
+
+channel 11
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,m
+t,t,t,t,t,t,t,t
+
+channel 12
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 13
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 14
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+
+channel 15
+
+t,t,t,t,t,t,t,t
+m,m,m,m,m,m,m,m
+m,m,m,m,m,m,m,m
+
+channel 16
+
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
+t,t,t,t,t,t,t,t
